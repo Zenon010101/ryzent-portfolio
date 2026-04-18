@@ -17,7 +17,7 @@ export const personalInfo = {
   location: "Taguig City, Philippines",
   linkedin: "https://www.linkedin.com/in/ryzent-mula-cruz-12218b348/",
   github: "https://github.com/Zenon010101",
-  summary: "BSIT graduate with strong expertise in computer networking and foundational cybersecurity knowledge. Proficient in Python, Java, C#, JavaScript, Android development, Unity, Blender, and Adobe Creative Suite. Seeking an entry-level position in network engineering, software development, cybersecurity, or multimedia technology."
+  summary: "BSIT graduate expertise in computer networking and foundational cybersecurity knowledge. Proficient in Python, Java, C#, JavaScript, Android development, Unity, Blender, and Adobe Creative Suite. Seeking an entry-level position in network engineering, software development, cybersecurity, or multimedia technology."
 };
 
 export const projects: Project[] = [
